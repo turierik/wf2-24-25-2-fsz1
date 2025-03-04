@@ -1,0 +1,14 @@
+Csoport ZH!
+
+- 60 perc (15:20-16:20)
+
+1. tömbös feladat
+ - jó lenne tömbfüggvénnyel megoldani, de nekem mindegy
+2. sima eseménykezelés (1 elem: 1 dolog)
+ - innerText, innerHTML
+ - style
+3. delegálás (lista, táblázat, egymásba ágyazott akármik)
+ - elem generálás is (map vagy createElement)
+ - 10 picit feladat, 1 pont/feladat
+
+- HF (nem kötelező): EBR-en (csütörtöktől)
