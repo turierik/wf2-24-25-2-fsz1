@@ -1,0 +1,16 @@
+Csoport ZH!
+
+- 60 perc (15:20-16:20)
+
+1. nyelvi alapozás
+ - pl. tömbös feladatok, jó lenne tömbfüggvényeket használni
+ - kimenetgenerálás is lehet benne (értékek, listák, táblázatok, stb.)
+2. űrlapok
+ - 1-2 mező validálása egyszerű feltételekkel
+ - hibaüzenetek megjelenítése mező mellett
+ - állapottartás
+3. adattárolás
+ - JSON fájlból nativan vagy Storage.php-vel
+ - olvasás, írás, törlés műveletekkel
+
+- HF (nem kötelező, de erősen ajánlott): EBR-en
